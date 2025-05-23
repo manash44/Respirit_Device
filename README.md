@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Respirit Device App
 
 A Flutter application for monitoring and controlling the Respirit device, which uses an ESP32 Pico D4 development board.
@@ -155,3 +156,7 @@ The backend includes automatic error handling and reconnection:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# Respirit_Device
+RespiritDeviceapp
+>>>>>>> e178b2e4c249d6ae6effeab48c7e91e630722332
