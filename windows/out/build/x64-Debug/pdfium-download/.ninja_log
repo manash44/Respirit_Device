@@ -1,0 +1,21 @@
+# ninja log v6
+12	183	7693467002770150	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-mkdir	cae192dae447acf4
+2694	2850	7693467029449861	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-update	63d44c9142952a68
+2694	2850	7693467029449861	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-update	63d44c9142952a68
+12	183	7693467002770150	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-mkdir	cae192dae447acf4
+185	2679	7693467027748956	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-download	93ce56e3bd4a8aa0
+2850	3007	7693467031026430	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-patch	843ac2639307311a
+185	2679	7693467027748956	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-download	93ce56e3bd4a8aa0
+2850	3007	7693467031026430	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-patch	843ac2639307311a
+3343	3496	7693467035899430	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-install	ac7041e01401fc88
+3008	3186	7693467032786731	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-configure	bf3efb8a58d2569
+3496	3648	7693467037420435	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-test	50f3d77a48b812e0
+3008	3186	7693467032786731	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-configure	bf3efb8a58d2569
+3187	3343	7693467034376720	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-build	93d10092bbca19e0
+3187	3343	7693467034376720	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-build	93d10092bbca19e0
+3343	3496	7693467035899430	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-install	ac7041e01401fc88
+3496	3648	7693467037420435	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-test	50f3d77a48b812e0
+3648	3866	7693467039609353	CMakeFiles/pdfium-download-complete	80d0fcefdfb05c7
+3648	3866	7693467039609353	pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-done	80d0fcefdfb05c7
+3648	3866	7693467039609353	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/CMakeFiles/pdfium-download-complete	80d0fcefdfb05c7
+3648	3866	7693467039609353	C:/Users/Manas/Documents/Arduino/Respirit_Device_app/respiritdeviceapp/windows/out/build/x64-Debug/pdfium-download/pdfium-download-prefix/src/pdfium-download-stamp/pdfium-download-done	80d0fcefdfb05c7

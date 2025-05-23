@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "windows\\CMakeLists.txt",
+      "projectTarget": "flutter_libserialport_plugin.dll (plugins\\flutter_libserialport\\flutter_libserialport_plugin.dll)",
+      "name": "flutter_libserialport_plugin.dll (plugins\\flutter_libserialport\\flutter_libserialport_plugin.dll)"
+    }
+  ]
+}
